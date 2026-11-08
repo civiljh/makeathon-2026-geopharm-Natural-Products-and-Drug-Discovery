@@ -11,4 +11,4 @@ services:
       - key: GEOPHARM_ENABLE_PLANT_PIPELINE
         value: "ture"
       - key: GEOPHARM_ENABLE_DISEASE_PREDICTIONS
-        value: "ture"
+        value: "true"
