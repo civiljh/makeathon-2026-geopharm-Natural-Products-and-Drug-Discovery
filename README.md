@@ -183,7 +183,7 @@ demo-limit : This demo runs on a free hosting plan. Adding plants or diseases ma
 
 ## Contributions and Development History
 
-Use purpose-specific branches and descriptive commit messages, and make frequent commits in meaningful units. The Git history and team information cannot be verified from this README alone, so disclose which parts were created or modified during the hackathon and which code, libraries, and data already existed on the submission page or in a contribution record.
+Use purpose-specific branches and descriptive commit messages, and make frequent commits in meaningful units. The Git history and team information cannot be verified from this README alone, so disclose which parts were created or modified during the hackathon and which code, libraries, and data already existed on the submission page or in a contribution record. **(https://drive.google.com/file/d/15xv2l-XlYDjXtY1vO5lvWIV-cIjXETPV/view?usp=drive_link)**
 
 ## License
 
@@ -375,7 +375,7 @@ demo-limit-kr: 이 데모 사이트는 무료 호스팅 플랜으로 운영됩�
 
 ## 기여 및 개발 기록
 
-개발 시 목적이 분명한 브랜치와 설명적인 커밋 메시지를 사용하고, 의미 있는 변경 단위로 자주 커밋하는 방식을 권장합니다. 현재 저장소의 Git 이력과 팀 정보는 README만으로 검증할 수 없으므로, 해커톤 중 작성·수정한 부분과 기존 코드·라이브러리·자료를 구분해 제출 페이지 또는 별도 기여 기록에 공개하세요.
+개발 시 목적이 분명한 브랜치와 설명적인 커밋 메시지를 사용하고, 의미 있는 변경 단위로 자주 커밋하는 방식을 권장합니다. 현재 저장소의 Git 이력과 팀 정보는 README만으로 검증할 수 없으므로, 해커톤 중 작성·수정한 부분과 기존 코드·라이브러리·자료를 구분해 제출 페이지 또는 별도 기여 기록에 공개하세요.**(https://drive.google.com/file/d/15xv2l-XlYDjXtY1vO5lvWIV-cIjXETPV/view?usp=drive_link)**
 
 ## 라이선스
 
