@@ -173,13 +173,13 @@ Connect the repository to Render to use the root `render.yaml` Blueprint configu
 
 - Demo video (up to 10 minutes): **(https://www.youtube.com/watch?v=kjiLTRrmioU)**
 - Presentation slides (up to 10 slides): **(https://drive.google.com/file/d/1hIQqin3hkEYmHewL9-7pvi36ZXVtDCAt/view?usp=drive_link)**
-- Demo site: (https://geopharm.onrender.com/)[^demo-limit]
+- Demo site: (https://geopharm.onrender.com/)
 - Devpost project page: **(https://devpost.com/software/geopharm)**
 - Public GitHub repository: **(https://github.com/civiljh/makeathon-2026-geopharm-Natural-Products-and-Drug-Discovery)**
 
 Before submission, check repository visibility, team-member listing, the links above, and data licenses and sources. The EthnoHack rules also require a pitch video of no more than 10 minutes and a presentation of no more than 10 slides.
 
-[^demo-limit]: This demo runs on a free hosting plan. Adding plants or diseases may take longer and can be interrupted by limited memory or other resource constraints.
+demo-limit : This demo runs on a free hosting plan. Adding plants or diseases may take longer and can be interrupted by limited memory or other resource constraints.
 
 ## Contributions and Development History
 
@@ -365,13 +365,13 @@ AI가 개발에 크게 기여했지만 사람의 참여는 필수적이었습니
 
 - 데모 영상 (10분 이내): **(https://www.youtube.com/watch?v=kjiLTRrmioU)**
 - 발표 자료 (10장 이내): **(https://drive.google.com/file/d/1hIQqin3hkEYmHewL9-7pvi36ZXVtDCAt/view?usp=drive_link)**
-- 데모 사이트: (https://geopharm.onrender.com/)[^demo-limit-kr]
+- 데모 사이트: (https://geopharm.onrender.com/)
 - Devpost 프로젝트 페이지: **(https://devpost.com/software/geopharm)**
 - 공개 GitHub 저장소: **(https://github.com/civiljh/makeathon-2026-geopharm-Natural-Products-and-Drug-Discovery)**
 
 제출 전 저장소 공개 여부, 팀원 등록, 위 링크, 데이터 라이선스와 출처를 확인하세요. EthnoHack 룰북은 최대 10분 피치 영상과 최대 10장 발표 자료도 요구합니다.
 
-[^demo-limit-kr]: 이 데모 사이트는 무료 호스팅 플랜으로 운영됩니다. 식물이나 질병을 추가하는 작업은 더 오래 걸릴 수 있으며, 메모리나 기타 자원 제한으로 중단될 수 있습니다.
+demo-limit-kr: 이 데모 사이트는 무료 호스팅 플랜으로 운영됩니다. 식물이나 질병을 추가하는 작업은 더 오래 걸릴 수 있으며, 메모리나 기타 자원 제한으로 중단될 수 있습니다.
 
 ## 기여 및 개발 기록
 
